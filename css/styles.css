@@ -1,0 +1,19 @@
+.work {
+  color: red;
+}
+
+.education {
+  color: blue;
+}
+
+.skills {
+  color: green;
+}
+
+.bold {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 40px;
+}
