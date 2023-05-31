@@ -1,13 +1,12 @@
 .work {
   color: red;
+  margin-left: 30%;
 }
 
-.education {
+#education {
   color: blue;
-}
-
-.skills {
-  color: green;
+  font-size: 120%;
+  margin-left: 30%;
 }
 
 .bold {
@@ -16,4 +15,16 @@
 
 h1 {
   font-size: 40px;
+  text-align: center;
+  text-decoration: underline blue;
+}
+
+#contact {
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#history {
+  margin-left: 900px;
 }
